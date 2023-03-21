@@ -1,4 +1,4 @@
-![Habit Builder App](https://socialify.git.ci/creative-hustle/Habit-Builder-UI/image?description=1&descriptionEditable=Simple%20%26%20Beautiful%20App%20UI%20Using%20Flutter%20Framework.%0A%0A&font=Rokkitt&forks=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fcreative-hustle%2FHabit-Builder-UI%2Fmain%2Fmedia%2Flogo.png&name=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+![](https://socialify.git.ci/creative-hustle/fuse-app-ui-demo/image?forks=1&logo=https%3A%2F%2Fgithub.com%2Fcreative-hustle%2Ffuse-app-ui-demo%2Fblob%2Fmain%2Fmedia%2Flogo.png%3Fraw%3Dtrue&name=1&pulls=1&stargazers=1&theme=Light)
 
 <br/>
 
@@ -13,23 +13,34 @@
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt=" forks"/>
 
 </div>
+<div align="center">
+
+
+<br>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/1.png" width=270 height=480></td>
+    <td><img src="https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/2.png" width=270 height=480></td>
+    <td><img src="https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/3.png" width=270 height=480></td>
+  </tr>
+  <br>
+  <br>
+   <tr>
+    <td><img src="https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/4.png" width=270 height=480></td>
+    <td><img src="https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/5.png" width=270 height=480></td>
+  </tr>
+</div>
 <br/>
 
-![Group 1](https://raw.githubusercontent.com/creative-hustle/Habit-Builder-UI/main/media/1.png)
-![Group 2](https://raw.githubusercontent.com/creative-hustle/Habit-Builder-UI/main/media/2.png)
-![Group 3](https://raw.githubusercontent.com/creative-hustle/Habit-Builder-UI/main/media/3.png)
-![Group 4](https://raw.githubusercontent.com/creative-hustle/Habit-Builder-UI/main/media/4.png)
-![Group 5](https://raw.githubusercontent.com/creative-hustle/Habit-Builder-UI/main/media/5.png)
 
-
-## [Download App here](https://drive.google.com/file/d/1fH7XJyV9TsDmOm0VN1yNJIh6HQLXHTYh/view?usp=sharing) |  [App Showcase Here](https://play.google.com/store/apps/details?id=com.ch.habitbuilder) | [Figma Files](https://www.figma.com/file/uMbfTjnw09qGUFMSwgFLRt/Pixel-True---Habit-Builder-UI-Kit?node-id=0-1)
+## [App Showcase Here](https://play.google.com/store/apps/details?id=com.ch.fuse) | [Figma Files](https://www.figma.com/file/juhTzTvR2B9h5TTGtUfgFQ/Social-Mobile-App-UI-Kit?node-id=1%3A23&t=YsaMWlodqDaZOWyB-1)
 
 
 <br/>
 
 ## 🛠️ Design Credits
 
-## [PixelTrue](https://www.pixeltrue.com/)
+The beautiful design of app was created by PixelTrue, a leading design agency known for their stunning and innovative work. Check out their <a herf="https://www.pixeltrue.com/">website</a> for more information.
+<!-- ## [PixelTrue](https://www.pixeltrue.com/) -->
 
 
 <br/>
@@ -43,12 +54,12 @@
 1. Open Terminal and Clone the Repo
 
 ```bash
-  git clone https://github.com/creative-hustle/Habit-Builder-UI.git
+  git clone https://github.com/creative-hustle/fuse-app-ui-demo.git
 ```
 2. Cd Over
 
 ```bash
-   cd Habit-Builder-UI
+   cd fuse-app-ui-demo
 ```
 3. Run Pub
 ```
@@ -59,3 +70,10 @@
   flutter pub run
 ```
 
+## 🛠️ Contact Us
+If you have any questions or feedback, please don't hesitate to contact us at https://www.creative-hustlers.com. We're always happy to hear from our users!
+
+<br/>
+<br/>
+
+![](https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/banner.png)
