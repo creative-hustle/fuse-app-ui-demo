@@ -39,7 +39,7 @@
 
 ## 🛠️ Design Credits
 
-The beautiful design of app was created by PixelTrue, a leading design agency known for their stunning and innovative work. Check out their <a herf="https://www.pixeltrue.com">website</a> for more information.
+The beautiful design of app was created by PixelTrue, a leading design agency known for their stunning and innovative work. Check out https://www.pixeltrue.com for more information.
 <!-- ## [PixelTrue](https://www.pixeltrue.com/) -->
 
 
