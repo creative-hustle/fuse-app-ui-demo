@@ -32,7 +32,7 @@
 <br/>
 
 
-## [App Showcase Here](https://play.google.com/store/apps/details?id=com.ch.fuse) | [Figma Files](https://www.figma.com/file/juhTzTvR2B9h5TTGtUfgFQ/Social-Mobile-App-UI-Kit?node-id=1%3A23&t=YsaMWlodqDaZOWyB-1)
+## [App Showcase Here](https://play.google.com/store/apps/details?id=com.ch.fuse) | [Figma Files](https://www.figma.com/file/juhTzTvR2B9h5TTGtUfgFQ/Social-Mobile-App-UI-Kit?node-id=0%3A1&t=Gy7rziZjAJvFIcGF-1)
 
 
 <br/>
