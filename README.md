@@ -13,6 +13,11 @@
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt=" forks"/>
 
 </div>
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=fuse-app-ui-demo&style=for-the-badge&label=EXPLORED+BY&color=brightgreen" height="35" alt="visitors"/>
+</div>
+<br/>
 <div align="center">
 
 
