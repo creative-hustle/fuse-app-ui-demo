@@ -13,6 +13,11 @@
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt=" forks"/>
 
 </div>
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=CH-fuse-app-ui-demo&style=for-the-badge&label=EXPLORED+BY&color=brightgreen" height="35" alt="visitors"/>
+</div>
+
 <div align="center">
 
 
@@ -76,4 +81,4 @@ If you have any questions or feedback, please don't hesitate to contact us at ht
 <br/>
 <br/>
 
-![](https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/banner.png)
+<a href="https://www.creative-hustlers.com"><img src="https://raw.githubusercontent.com/creative-hustle/fuse-app-ui-demo/main/media/banner.png" alt="Description of image"></a>
